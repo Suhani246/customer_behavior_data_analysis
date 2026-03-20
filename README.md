@@ -142,6 +142,6 @@ python analysis.py
 
 This project highlights the complete data analytics lifecycle, combining technical skills in Python, SQL, and Power BI with strong data storytelling and presentation abilities.
 
----
 
-If you want, I can customize this README based on your **actual dataset/project topic** (e.g., sales, healthcare, finance) to make it even stronger for recruiters.
+
+
