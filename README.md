@@ -131,7 +131,7 @@ python analysis.py
 ├── sql/               # SQL queries  
 ├── dashboard/         # Power BI file (.pbix)  
 ├── report/            # Final report  
-├── presentation/      # Gamma PPT  
+├── presentation/      # PPT  
 └── README.md  
 ```
 
